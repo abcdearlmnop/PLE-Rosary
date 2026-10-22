@@ -1,6 +1,6 @@
 // Saves the app on the phone so it opens even without internet.
 // When you change index.html, raise the version number below so phones get the update.
-const CACHE = 'rosary-v2';
+const CACHE = 'rosary-v4';
 const FILES = ['./', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
